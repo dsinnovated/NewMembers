@@ -5,7 +5,9 @@ Hello and welcome to the Data Science Innovated repository. Here you will find p
 If you havent already, please sign up to be a member! You can sign up at https://tinyurl.com/dsiregistration
 
 For more information about events, discussions and more, consider following us via: 
+
 Facebook: https://www.facebook.com/groups/dsinnovated/
+
 Discord: https://discord.gg/kvP8GZ2
 
 
